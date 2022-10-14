@@ -1,0 +1,74 @@
+{
+    "teacher":{
+        "wordEnglish": "teacher",
+        "wordPortuguese": "professor"
+    },
+    "professor":{
+        "wordEnglish": "teacher",
+        "wordPortuguese": "professor"
+    },
+
+    "dog":{
+        "wordEnglish": "dog",
+        "wordPortuguese": "cachorro" 
+    },
+    "cachorro":{
+        "wordEnglish": "dog",
+        "wordPortuguese": "cachorro"
+    },
+
+    "star":{
+        "wordEnglish": "star",
+        "wordPortuguese": "estrela"
+    },
+    "estrela":{
+        "wordEnglish": "star",
+        "wordPortuguese": "estrela"
+    },
+
+    "cellphone":{
+        "wordEnglish": "cellphone",
+        "wordPortuguese": "celular"
+    },
+    "celular":{
+        "wordEnglish": "cellphone",
+        "wordPortuguese": "celular"
+    },
+
+    "money":{
+        "wordEnglish": "money",
+        "wordPortuguese": "dinheiro"
+    },
+    "dinheiro":{
+        "wordEnglish": "money",
+        "wordPortuguese": "dinheiro"
+    },
+
+    "book":{
+        "wordEnglish": "book",
+        "wordPortuguese": "livro"
+    },
+    "livro":{
+        "wordEnglish": "book",
+        "wordPortuguese": "livro"
+    },
+
+    "door": {
+        "wordEnglish": "door",
+        "wordPortuguese": "porta"
+    },
+    "porta": {
+        "wordEnglish": "door",
+        "wordPortuguese": "porta"
+    },
+
+    "coffee":{
+        "wordEnglish": "coffee",
+        "wordPortuguese": "café"
+    },
+    "café":{
+        "wordEnglish": "coffee",
+        "wordPortuguese": "café"
+    }
+
+}
